@@ -3,8 +3,7 @@
     <color name="my_primary">#FFFFFF</color>
     <color name="my_secondary">#2196F3</color>
     <color name="my_statusbar">#FFF491</color>
-
-
+    <color name="my_text">#FFF491</color>
     <color name="purple_200">#B33C16</color>
     <color name="purple_500">#6926CA</color>
     <color name="purple_700">#FF3700B3</color>
