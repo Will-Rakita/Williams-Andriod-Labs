@@ -47,6 +47,7 @@
         android:text="@string/myradiobutton"
 />
     <ImageView
+        android:id="@+id/algonquin"
         android:src="@drawable/algonquin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
