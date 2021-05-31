@@ -2,4 +2,9 @@
     <string name="app_name">William\'s Andriod Labs</string>
     <string name="hello_message">Hello World!</string>
     <string name="button_message">I\'m a button</string>
+    <string name="editmessage">"I\'m an EditText"</string>string>
+    <string name="hinttext"> "Write something here"</string>string>
+    <string name="mycheckboxbutton"> "Ya like coffee1?"</string>string>
+    <string name="myswitchbutton"> "Ya like coffee2?"</string>string>
+    <string name="myradiobutton"> "Ya like coffee3?"</string>string>
 </resources>
