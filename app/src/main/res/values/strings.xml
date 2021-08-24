@@ -2,4 +2,8 @@
     <string name="app_name">William\'s Andriod Labs</string>
     <string name="hello_message">Hello World!</string>
     <string name="button_message">I\'m a button</string>
+    <string name="button">I\'m a button</string>
+    <string name="button2">I\'m a button</string>
+    <string name="button3">I\'m a button</string>
+    <string name="spin_message">Spin flag</string>
 </resources>
