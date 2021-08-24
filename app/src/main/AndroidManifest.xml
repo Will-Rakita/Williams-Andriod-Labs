@@ -9,7 +9,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/app_icon"
-        android:banner="@drawable/Banner"
+        android:banner="@drawable/banner"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.WilliamsAndriodLabs">
